@@ -26,7 +26,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📊 Tableau
 | Project Link | Project Description | Dashboard Link |
-|-------------|----------------------|---------------|
-| 🌍 **[CO₂ Emissions and Renewable Energy Analysis](https://github.com/meenaavalu/THE-DYNAMICS-OF-GLOBAL-CO-EMISSIONS)** |Built interactive dashboards to analyze global CO₂ emissions trends, economic impact, and renewable energy adoption using datasets from Our World in Data and World Bank. | |
+|-------------|----------------------|------------------------------|
+| 🌍 **[CO₂ Emissions and Renewable Energy Analysis](https://github.com/meenaavalu/THE-DYNAMICS-OF-GLOBAL-CO-EMISSIONS)** |Built interactive dashboards to analyze global CO₂ emissions trends, economic impact, and renewable energy adoption using datasets from Our World in Data and World Bank. | [CO2 Emissions Analysis & Renewable Energy Trends](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/CO2EmissionsAnalysis_final/CO2EmissionsAnalysisRenewableEnergyTrends) --- [Economic Growth and Environmental Sustainability](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/CO2EmissionsAnalysis_final/EconomicGrowthandEnvironmentalSustainability) |
 
 
